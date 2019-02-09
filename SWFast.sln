@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWFast", "SWFast\SWFast.csproj", "{B6472A1F-8306-41C5-9C47-F0836F68BF34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6472A1F-8306-41C5-9C47-F0836F68BF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6472A1F-8306-41C5-9C47-F0836F68BF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6472A1F-8306-41C5-9C47-F0836F68BF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6472A1F-8306-41C5-9C47-F0836F68BF34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12B1B4D2-E814-426B-930B-A31BD5A772BF}
+	EndGlobalSection
+EndGlobal
